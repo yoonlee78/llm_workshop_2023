@@ -15,6 +15,11 @@ Files:
 - practice google colab .ipynb files
 - pratice dataset from reference course. 
 
+---
+
+[Course Slides](https://drive.google.com/drive/folders/1ocYl1RVBJbmFR5dtMf5fTsIgRbrADjRo?usp=sharing)
+
+---
 
 Reference:
 - [LangChain](https://python.langchain.com/docs/get_started/introduction.html)
